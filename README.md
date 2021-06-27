@@ -1,11 +1,11 @@
-# Easy HTML-SCRAPER
+# Easy HTML-INSPECT-termux
 
 ## **About**
- This is a simple code for downloading or inspecting HTML from a wesbite, Write on python3
+ This is a simple tool for downloading or inspecting HTML from a wesbite, Write on python3. I make this because Android didn't have inbuilt page inspector in chrome
 
 ## Cloning the project
 1. git clone https://github.com/Nuginity/html-scraper.git
-1. cd html-scraper
+1. cd html-scraper-termux
 
 ## **Installation**
 
