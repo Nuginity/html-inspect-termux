@@ -3,6 +3,10 @@
 ## **About**
  This is a simple code for downloading or inspecting HTML from a wesbite, Write on python3
 
+## Cloning the project
+1. git clone https://github.com/Nuginity/html-scraper.git
+1. cd html-scraper
+
 ## **Installation**
 
 ### Linux
